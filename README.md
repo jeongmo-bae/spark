@@ -5,10 +5,10 @@
 - 스파크 엔진과 이를 효과적으로 사용하는 법을 공부
 - language : python(pyspark) , scala
 - version : <br>
-    java 17.0.10-oracle <br>
-    spark 3.5.0 <br>
-    scala 2.13.13 <br>
-    python 3.9.6 <br>
+    - java 17.0.10-oracle <br>
+    - spark 3.5.0 <br>
+    - scala 2.13.13 <br>
+    - python 3.9.6 <br>
 
 ## 목차
 
