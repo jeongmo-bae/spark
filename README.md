@@ -28,4 +28,4 @@
 
 ## Example Code & Data
 
-[Translation GitHub](https://github.com/FVBros/Spark-The-Definitive-Guide)
+- [Translation GitHub](https://github.com/FVBros/Spark-The-Definitive-Guide)
