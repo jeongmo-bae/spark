@@ -1,8 +1,8 @@
- # Spark 공부
+ # Spark study
 
 > **ref. Spark-The-Definitive-Guide (Bill Chambers,Mate Zaharia)**
 
-- 스파크 엔진과 이를 효과적으로 사용하는 법을 공부
+- studying the Spark engine deeply and exploring effective ways to utilize it
 - language : python(pyspark) , scala
 - version : <br>
     - java 17.0.10-oracle <br>
@@ -10,10 +10,22 @@
     - scala 2.13.13 <br>
     - python 3.9.6 <br>
 
-## 목차
+## Contents
+- PART1. Overview
 
-- 작성중
+- **PART2. Structured API : DataFrame, SQL, Dataset**
 
-## 참고 예제코드 & 데이터
+- **PART3. Low-level API**
 
-[번역판 깃헙 주소](https://github.com/FVBros/Spark-The-Definitive-Guide)
+- **PART4. Operational application**
+
+- PART5. Streaming
+
+- PART6. Advanced analytics and machine learning
+
+- PART7. Eco-system
+
+
+## Example Code & Data
+
+[Translation GitHub](https://github.com/FVBros/Spark-The-Definitive-Guide)
